@@ -79,10 +79,10 @@
 ## Github Stats  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Zoomish&show_icons=true&count_private=true&hide_border=true&theme=transparent" align="center" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zoomish&show_icons=true&count_private=true&hide_border=true&theme=transparent"  />
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zoomish)](https://github.com/Zoomish/github-readme-stats)
 </div>  
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zoomish&show_icons=true&count_private=true&hide_border=true&theme=transparent" />
+</div> 
 <br/>  
 
 

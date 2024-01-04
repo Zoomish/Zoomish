@@ -80,7 +80,15 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Zoomish&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zoomish)](https://github.com/Zoomish/github-readme-stats)
+name: Full-year calendar
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.isocalendar.fullyear.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ""
+  plugin_isocalendar: yes
+  plugin_isocalendar_duration: full-year
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zoomish&layout=compact)](https://github.com/Zoomish/github-readme-stats)
   

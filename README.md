@@ -77,13 +77,14 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Zoomish&show_icons=true&count_private=true&hide_border=true&theme=transparent" align="center" /></div>  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zoomish&show_icons=true&count_private=true&hide_border=true&theme=transparent" align="center" />
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zoomish&theme=transparent)](https://github.com/Zoomish/github-readme-stats)
+</div>  
 
 <br/>  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zoomish)](https://github.com/Zoomish/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zoomish&layout=compact)](https://github.com/Zoomish/github-readme-stats)
   
 
 <br/>  

@@ -82,7 +82,7 @@
 <br/>  
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Zoomish=anuraghazra&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zoomish&layout=compact)](https://github.com/Zoomish/github-readme-stats)
   
 
 <br/>  
@@ -94,14 +94,4 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Zoomish&&style=flat-square" align="center" />
 </div>  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
 

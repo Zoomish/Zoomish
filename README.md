@@ -81,7 +81,7 @@
 
 <br/>  
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zoomish)](https://github.com/Zoomish/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zoomish&layout=compact)](https://github.com/Zoomish/github-readme-stats)
   

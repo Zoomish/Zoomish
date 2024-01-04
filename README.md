@@ -82,7 +82,7 @@
 <br/>  
 
 
-## Recent Blog Posts  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Zoomish=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) 
   
 
 <br/>  

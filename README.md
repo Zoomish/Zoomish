@@ -81,7 +81,7 @@
 
 ## Github Stats  
 <div align="center">
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zoomish&theme=transparent)
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zoomish&theme=transparent" />
 </div> 
 
 <div align="center">

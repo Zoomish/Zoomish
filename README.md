@@ -80,7 +80,10 @@
 
 
 ## Github Stats  
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zoomish&theme=default)
+<div align="center">
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zoomish&theme=transparent)
+</div> 
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zoomish&show_icons=true&count_private=true&hide_border=true&theme=transparent" />
 </div> 

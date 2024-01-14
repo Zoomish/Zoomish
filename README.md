@@ -1,5 +1,5 @@
 ### <div align="center"><h1>I'm Egor, a full-time Frontend developer</h1></div>  
-  
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 🔭 I’m currently working on [NovaDevelopersCo](https://github.com/NovaDevelopersCo)  
   

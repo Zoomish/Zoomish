@@ -81,7 +81,7 @@
 
 ## Github Stats  
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Zoomish&theme=transparent)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Zoomish&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zoomish&show_icons=true&count_private=true&hide_border=true&theme=transparent" />

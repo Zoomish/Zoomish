@@ -82,7 +82,7 @@
 ## Github Stats  
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Zoomish&theme=transparent" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Zoomish&theme=dark" />
 </div> 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zoomish&theme=transparent" />

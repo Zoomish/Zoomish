@@ -78,13 +78,17 @@
 
 <br/>  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Zoomish&theme=transparent)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## Github Stats  
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Zoom_ent)](https://github.com/Zoom_ent/leetcode-stats)
-
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Zoomish&theme=transparent" />
+</div> 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zoomish&theme=transparent" />
+</div> 
+<div align="center">
+  <img src="https://leetcode-stats-six.vercel.app/?username=Zoom_ent" />
 </div> 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Zoomish&show_icons=true&count_private=true&hide_border=true&theme=transparent" align="center" />

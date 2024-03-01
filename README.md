@@ -86,7 +86,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zoomish&theme=transparent" />
 </div> 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zoomish&theme=transparent" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zoomish&theme=transparent" />
 </div> 
 <!---
 <div align="center">

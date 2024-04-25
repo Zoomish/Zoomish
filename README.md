@@ -100,6 +100,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zoomish&show_icons=true&count_private=true&hide_border=true&theme=transparent" />
 </div> 
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <br/>  
 

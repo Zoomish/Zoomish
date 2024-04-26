@@ -100,7 +100,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zoomish&show_icons=true&count_private=true&hide_border=true&theme=transparent" />
 </div> 
 
-### Random Dev Quote
+## Random Dev Quote
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" />
 </div> 

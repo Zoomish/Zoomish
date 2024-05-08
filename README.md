@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on [NovaDevelopersCo](https://github.com/NovaDevelopersCo)  
   
 
-- 🌱 I’m currently learning React, Typescript & MongoDB  
+- 🌱 I’m currently learning Typescript, NestJS & PostgresSQL  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  

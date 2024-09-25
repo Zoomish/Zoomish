@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-- 🔭 I’m currently working on [NovaDevelopersCo](https://github.com/NovaDevelopersCo)  
+- 🔭 I’m currently working on [NovaDevelopersCo](https://github.com/NovaDevelopersCo), [PlatinaMedia](https://github.com/platinamedia)  
   
 
 - 🌱 I’m currently learning Typescript, NestJS & PostgresSQL  

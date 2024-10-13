@@ -86,9 +86,6 @@
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zoomish&theme=transparent" />
 </div> 
-<div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zoomish&theme=transparent&hide_border=true&currStreakNum=FF8C00&fire=FF8C00&ring=FF8C00&currStreakLabel=FF8C00" alt="zoomish" />
-</div> 
 <!---
 <div align="center">
   <img src="https://leetcode-stats-six.vercel.app/?username=Zoom_ent&theme=dark" />
